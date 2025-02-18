@@ -67,8 +67,8 @@ This analysis provides actionable insights into the usage patterns and operation
 ---
 
 ## Collaborators: 
-- Dylan Kakkanad
 - Boyuan Chen
 - Chirayu (Mitthi) Jain
+- Dylan Kakkanad
 - Lyushen Song
 - Neeharika Kamireddy
