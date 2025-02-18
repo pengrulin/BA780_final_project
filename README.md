@@ -63,3 +63,13 @@ This project conducts an exploratory data analysis (EDA) on the 2014 NYC Citibik
 
 ### **Conclusion**
 This analysis provides actionable insights into the usage patterns and operational dynamics of NYC Citibikes. By leveraging these findings, Citibike can not only improve day-to-day service but also strategically plan for expansion, ensuring a better, more efficient transportation option for New Yorkers while setting a blueprint for future markets.
+
+---
+
+## Collaborators: 
+Dylan Kakkanad
+Boyuan Chen
+Chirayu (Mitthi) Jain
+Lyushen Song
+Neeharika Kamireddy
+Pengru Lin
